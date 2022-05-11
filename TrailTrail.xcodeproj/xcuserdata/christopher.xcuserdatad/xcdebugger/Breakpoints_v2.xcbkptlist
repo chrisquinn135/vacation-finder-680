@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "58D859EB-A51C-4972-A44F-965684F0A512"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "77D9B03B-04B3-4CFB-B3A3-4AD3A5125C28"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TrailTrail/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "77D9B03B-04B3-4CFB-B3A3-4AD3A5125C28 - 6dc79f02f68090e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrailTrail.ViewController.networking.getter : TrailTrail.Networking"
+                  moduleName = "TrailTrail"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christopher/Desktop/Stanford%20Xcode%20Apps/TrailTrail/TrailTrail/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "77D9B03B-04B3-4CFB-B3A3-4AD3A5125C28 - 77dc44deea0b1d63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrailTrail.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TrailTrail.ViewController"
+                  moduleName = "TrailTrail"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christopher/Desktop/Stanford%20Xcode%20Apps/TrailTrail/TrailTrail/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "77D9B03B-04B3-4CFB-B3A3-4AD3A5125C28 - 2851bb1eff314dd0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TrailTrail.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TrailTrail.ViewController&gt;"
+                  moduleName = "TrailTrail"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christopher/Desktop/Stanford%20Xcode%20Apps/TrailTrail/TrailTrail/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
